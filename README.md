@@ -1,20 +1,10 @@
 <div align="center">
 
 <pre>
- .-----------------. .----------------.  .----------------. 
-| .--------------. || .--------------. || .--------------. |
-| | ____  _____  | || |   _____      | || |     ____     | |
-| ||_   \|_   _| | || |  |_   _|     | || |   .'    `.   | |
-| |  |   \ | |   | || |    | |       | || |  /  .--.  \  | |
-| |  | |\ \| |   | || |    | |   _   | || |  | |    | |  | |
-| | _| |_\   |_  | || |   _| |__/ |  | || |  \  `--'  /  | |
-| ||_____|\____| | || |  |________|  | || |   `.____.'   | |
-| |              | || |              | || |              | |
-| '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------' 
+<img src="https://github.com/Z3ROROOT3R/Z3ROROOT3R/blob/main/ezgif.com-gif-maker.gif?raw=true" width="600" />
 </pre>
 
-### 🌐 CYBERSECURITY PROFESSIONAL | PURPLE TEAM 🌐
+### 🌐 CYBERSECURITY PROFESSIONAL  🌐
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vcenter=true&width=800&lines=Offensive+Security+%26+Penetration+Testing;Security+Operations+Center+(SOC)+Analyst;Blue+Team+%7C+Threat+Hunting+%26+Incident+Response;Bug+Bounty+Hunter+%7C+Web+Vulnerability+Researcher;Bridging+the+gap+between+Offense+and+Defense)](https://git.io/typing-svg)
 
