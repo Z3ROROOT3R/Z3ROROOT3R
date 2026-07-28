@@ -94,3 +94,26 @@ Comprehensive **Cybersecurity Specialist** with dual expertise in **Offensive Se
 > 🏛️ **NIST Cybersecurity (CSF)** ⮑ *Identify, Protect, Detect, Respond, Recover*  
 > 📜 **ISO/IEC 27001** ⮑ *Information Security Management Systems (ISMS)*  
 > ✅ **CIS Controls v8** ⮑ *Prioritized Actions for Cyber Defense*
+
+
+## 📈 Contribution & Activity Metrics
+
+<div align="center">
+
+<!-- GitHub Streak Stats (Hacker Theme) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Z3ROROOT3R&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=9333EA&ring=00FF66)](https://git.io/streak-stats)
+
+<!-- Dynamic Activity Line Graph (Purple & Green Cyber Vibe) -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Z3ROROOT3R&bg_color=0D1117&color=00FF66&line=9333EA&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+### 🐍 The Contribution Snake (Eating My Commits)
+<!-- GitHub Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Z3ROROOT3R/Z3ROROOT3R/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Z3ROROOT3R/Z3ROROOT3R/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Z3ROROOT3R/Z3ROROOT3R/output/github-contribution-grid-snake-dark.svg" width="800">
+</picture>
+
+</div>
