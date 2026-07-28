@@ -64,10 +64,33 @@ Comprehensive **Cybersecurity Specialist** with dual expertise in **Offensive Se
 
 ---
 
-## 🛡️ Frameworks & Methodologies
+## 🛡️ Frameworks, Standards & Methodologies
 
-```ansi
-[1;35m[✦] MITRE ATT&CK Framework[0m     --> Tactics, Techniques, and Procedures (TTPs) Mapping
-[1;36m[✦] Cyber Kill Chain[0m           --> Threat modeling and attack lifecycle analysis
-[1;33m[✦] OWASP Top 10[0m               --> Web Application Security & Secure Coding Standards
-[1;32m[✦] NIST Cybersecurity[0m         --> Identify, Protect, Detect, Respond, Recover
+<div align="center">
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_Framework-00599E?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-008080?style=for-the-badge)
+![PTES](https://img.shields.io/badge/PTES-4EAA25?style=for-the-badge)
+
+</div>
+
+<br/>
+
+> ### 🔴 OFFENSIVE SECURITY & PENTESTING (Red Team)
+> ⚔️ **MITRE ATT&CK® Framework** ⮑ *Adversary Tactics, Techniques & Procedures (TTPs)*  
+> 🕸️ **OWASP Top 10 & ASVS** ⮑ *Web Application Security & Verification Standard*  
+> 🎯 **PTES Standard** ⮑ *Penetration Testing Execution Standard*  
+> 🔍 **OSSTMM 3.0** ⮑ *Open Source Security Testing Methodology*  
+
+> ### 🔵 DEFENSIVE, SOC & INCIDENT RESPONSE (Blue Team)
+> 🛡️ **Cyber Kill Chain®** ⮑ *Threat Lifecycle Analysis & Intrusion Defense*  
+> 💎 **Diamond Model** ⮑ *Adversary Intrusion & Threat Intel Analysis*  
+> 🚨 **NIST SP 800-61** ⮑ *Computer Security Incident Handling Guidelines*  
+> 🧩 **SIGMA & YARA Rules** ⮑ *Detection Engineering & Malware Pattern Matching*  
+
+> ### 🟣 GOVERNANCE, RISK & COMPLIANCE (GRC)
+> 🏛️ **NIST Cybersecurity (CSF)** ⮑ *Identify, Protect, Detect, Respond, Recover*  
+> 📜 **ISO/IEC 27001** ⮑ *Information Security Management Systems (ISMS)*  
+> ✅ **CIS Controls v8** ⮑ *Prioritized Actions for Cyber Defense*
