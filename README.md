@@ -1,15 +1,20 @@
 <div align="center">
 
-# 🌐 
- /$$   /$$ /$$        /$$$$$$ 
-| $$$ | $$| $$       /$$__  $$
-| $$$$| $$| $$      | $$  \ $$
-| $$ $$ $$| $$      | $$  | $$
-| $$  $$$$| $$      | $$  | $$
-| $$\  $$$| $$      | $$  | $$
-| $$ \  $$| $$$$$$$$|  $$$$$$/
-|__/  \__/|________/ \______/ 
-                              🌐
+<pre>
+ .-----------------. .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. |
+| | ____  _____  | || |   _____      | || |     ____     | |
+| ||_   \|_   _| | || |  |_   _|     | || |   .'    `.   | |
+| |  |   \ | |   | || |    | |       | || |  /  .--.  \  | |
+| |  | |\ \| |   | || |    | |   _   | || |  | |    | |  | |
+| | _| |_\   |_  | || |   _| |__/ |  | || |  \  `--'  /  | |
+| ||_____|\____| | || |  |________|  | || |   `.____.'   | |
+| |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------' 
+</pre>
+
+### 🌐 CYBERSECURITY PROFESSIONAL | PURPLE TEAM 🌐
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vcenter=true&width=800&lines=Offensive+Security+%26+Penetration+Testing;Security+Operations+Center+(SOC)+Analyst;Blue+Team+%7C+Threat+Hunting+%26+Incident+Response;Bug+Bounty+Hunter+%7C+Web+Vulnerability+Researcher;Bridging+the+gap+between+Offense+and+Defense)](https://git.io/typing-svg)
 
@@ -60,8 +65,7 @@ Comprehensive **Cybersecurity Specialist** with dual expertise in **Offensive Se
 
 ### 💻 OS, Virtualization & Scripting
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux_Host-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11_Virtual-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11_VirtualBox-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
