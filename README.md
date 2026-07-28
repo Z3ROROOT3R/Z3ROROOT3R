@@ -1,8 +1,9 @@
 <div align="center">
 
-<pre>
+
+  <div>
 <img src="https://github.com/Z3ROROOT3R/Z3ROROOT3R/blob/main/ezgif.com-gif-maker.gif?raw=true" width="600" />
-</pre>
+  </div>
 
 ### 🌐 CYBERSECURITY PROFESSIONAL  🌐
 
