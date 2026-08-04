@@ -6,11 +6,20 @@
 
 ### 🌐 THE CYBERSECURITY OMNIVERSE  🌐
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9333EA&center=true&vcenter=true&width=1000&lines=Offensive+Security+%26+Advanced+Penetration+Testing;Security+Operations+Center+(SOC)+%26+Threat+Intelligence;Blue+Team+%7C+Threat+Hunting+%26+Incident+Response;Bug+Bounty+Hunter+%7C+Web+%26+Cloud+Vulnerability+Researcher;Malware+Analysis+%26+Reverse+Engineering+Specialist;GRC+%26+Security+Architecture+Professional;Bridging+the+gap+between+Offense+and+Defense)](https://git.io/typing-svg)
+<!-- ANIMATED TYPING ROLES -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vcenter=true&width=1000&lines=✦+Offensive+Security+%26+Advanced+Penetration+Testing+✦;✦+Security+Operations+Center+(SOC)+%26+Threat+Intelligence+✦;✦+Blue+Team+%7C+Threat+Hunting+%26+Incident+Response+✦;✦+Bug+Bounty+Hunter+%7C+Web+%26+Cloud+Vulnerability+Researcher+✦;✦+Malware+Analysis+%26+Reverse+Engineering+Specialist+✦;✦+GRC+%26+Security+Architecture+Professional+✦;✦+Bridging+the+gap+between+Offense+and+Defense+✦)](https://git.io/typing-svg)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**`[ 🔴 RED TEAM / OFFENSE ]`** ⚔️ **`[ 🟣 PURPLE TEAM ]`** 🛡️ **`[ 🔵 BLUE TEAM / DEFENSE ]`** 🤖 **`[ ⚪ DEVSECOPS ]`** 🔮 **`[ 🟡 GRC ]`**
+  <!-- GLOWING ROLE BADGES -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/🔴_RED_TEAM_/_OFFENSE-FF0000?style=for-the-badge&logo=mitre&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/🟣_PURPLE_TEAM-8B00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/🔵_BLUE_TEAM_/_DEFENSE-0066FF?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/🤖_DEVSECOPS-00D4AA?style=for-the-badge&logo=devops&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/🟡_GRC-F5A623?style=for-the-badge&logo=compliance&logoColor=white&labelColor=1a1a1a" />
+  </p>
 
 </div>
 
@@ -18,7 +27,7 @@
 
 ## 📌 Executive Summary
 
-A vanguard **Cybersecurity Polymath** with elite mastery in **Offensive Security (Penetration Testing, Exploit Development, Bug Bounty)** and **Defensive Operations (SOC Engineering, Threat Hunting, Incident Response)**. An architect of the **Purple Team** philosophy, I leverage adversarial simulation to engineer robust defensive controls. Expertise encompasses the full spectrum of cybersecurity: from reverse engineering malware and analyzing zero-day vulnerabilities to implementing zero-trust architectures and navigating complex compliance frameworks.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A vanguard **Cybersecurity Polymath** with elite mastery in **Offensive Security (Penetration Testing, Exploit Development, Bug Bounty)** and **Defensive Operations (SOC Engineering, Threat Hunting, Incident Response)**. An architect of the **Purple Team** philosophy, I leverage adversarial simulation to engineer robust defensive controls. Expertise encompasses the full spectrum of cybersecurity: from reverse engineering malware and analyzing zero-day vulnerabilities to implementing zero-trust architectures and navigating complex compliance frameworks.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
