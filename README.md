@@ -155,6 +155,7 @@ A vanguard **Cybersecurity Polymath** with elite mastery in **Offensive Security
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
 ## 📈 Contribution & Activity Metrics (The Hacker's Dashboard)
 
 <div align="center">
@@ -168,13 +169,8 @@ A vanguard **Cybersecurity Polymath** with elite mastery in **Offensive Security
 <br/>
 
 ### 🐍 The Contribution Snake (A Symbol of Continuous Engagement)
-<!-- GitHub Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Z3ROROOT3R/Z3ROROOT3R/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Z3ROROOT3R/Z3ROROOT3R/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Z3ROROOT3R/Z3ROROOT3R/output/github-contribution-grid-snake-dark.svg" width="800">
-</picture>
-
+<img alt="snake eating my contribution" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
