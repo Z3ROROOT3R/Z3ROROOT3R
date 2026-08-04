@@ -204,7 +204,7 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](YOUR_HTB_URL)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ### 💬 "In the world of cybersecurity, the only way to defend is to think like the attacker and anticipate the future."
 ### 🛡️ Stay secure, stay aware. 🛡️
-
 </div>
